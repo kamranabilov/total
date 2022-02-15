@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\HomeTask\bin\Debug\netcoreapp3.1\HomeTask.exe
+C:\Users\HP\Desktop\HomeTask\bin\Debug\netcoreapp3.1\HomeTask.deps.json
+C:\Users\HP\Desktop\HomeTask\bin\Debug\netcoreapp3.1\HomeTask.runtimeconfig.json
+C:\Users\HP\Desktop\HomeTask\bin\Debug\netcoreapp3.1\HomeTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\HomeTask\bin\Debug\netcoreapp3.1\HomeTask.dll
+C:\Users\HP\Desktop\HomeTask\bin\Debug\netcoreapp3.1\HomeTask.pdb
+C:\Users\HP\Desktop\HomeTask\obj\Debug\netcoreapp3.1\HomeTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HomeTask\obj\Debug\netcoreapp3.1\HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HomeTask\obj\Debug\netcoreapp3.1\HomeTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HomeTask\obj\Debug\netcoreapp3.1\HomeTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\HomeTask\obj\Debug\netcoreapp3.1\HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HomeTask\obj\Debug\netcoreapp3.1\HomeTask.dll
+C:\Users\HP\Desktop\HomeTask\obj\Debug\netcoreapp3.1\HomeTask.pdb
+C:\Users\HP\Desktop\HomeTask\obj\Debug\netcoreapp3.1\HomeTask.genruntimeconfig.cache
